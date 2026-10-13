@@ -1,12 +1,11 @@
-# Checkmate Studios
+## Checkmate Studios 
+
 > Creating for animation, living for animation.
 
-> We are the creator of Checkmate animation studio.
+> We are the creators behind Checkmate Animation Studio, and we hope you enjoy our projects!
 
-> May you enjoy our projects
+## Want to join us? 
 
-## Wanna join us?
-> Create a PR on our Checkmate repo, we will then accept you based on your projects.
+> Just submit a Pull Request (PR) to our Checkmate repository, and we will review your application based on your work.
 
-THANKS!!!!
-----> Checkmate Studios account based in the US.
+**Thanks!**
